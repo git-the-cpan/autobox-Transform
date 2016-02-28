@@ -1,6 +1,12 @@
 # Revision history for Perl module autobox::Transform
 
+1.001 2016-02-28T22:18:35Z
+
+ * Documentation for all methods
+
+
+
 1.000 2016-02-28T21:37:22Z
 
-    - original version
+ * Original version
 
